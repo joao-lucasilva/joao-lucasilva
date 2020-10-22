@@ -14,7 +14,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python,ES6**
 
-- 👯 Pretendo colaborar em ** Projetos com JavaScript, Python **
+- 👯 Pretendo colaborar em **Projetos com JavaScript, Python**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/joao-lucasilva?tab=repositories](https://github.com/joao-lucasilva?tab=repositories)
 
