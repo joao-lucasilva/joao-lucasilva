@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá 👋, sou João Lucas </h1>
-<h3 align = "center"> Desenvolvedor Python Full Stack </h3>
-<h4 align = "justify">Meu nome é João, tenho 21 anos. 
-    Sou técnico de informática, estudante de Ciência da Computação, padawan da tecnologia e busco me tornar desenvolvedor Full-Stack;
+<h3 align = "center"> Desenvolvedor Back-end </h3>
+<h4 align = "justify">Meu nome é João, tenho 22 anos. 
+    Sou técnico de informática, estudante de Ciência da Computação, padawan da tecnologia e busco me tornar desenvolvedor Back-End;
     Sou apaixonado por resolver problemas utilizando a programação. </h4>
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align="left">
@@ -10,11 +10,12 @@
 <a href="https://www.hackerrank.com/lucas_starwars66" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lucas_starwars66" height="30" width="40" /></a>
 </p>
 
-- 🔭 Atualmente estou trabalhando em [Snake-Python](https://github.com/joao-lucasilva/Snake-Python)
+- 🔭 Atualmente estou trabalhando em [
+Ordem-de-Servico-API](https://github.com/joao-lucasilva/Ordem-de-Servico-API)
 
-- 🌱 Atualmente estou aprendendo **Python,ES6**
+- 🌱 Atualmente estou aprendendo **Python, Java, Spring**
 
-- 👯 Pretendo colaborar em **Projetos com JavaScript, Python**
+- 👯 Pretendo colaborar em **Projetos com Java, JavaScript, Python**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/joao-lucasilva?tab=repositories](https://github.com/joao-lucasilva?tab=repositories)
 
