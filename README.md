@@ -8,9 +8,7 @@
 <a href="https://linkedin.com/in/joaolucassilva-812819165/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaolucassilva-812819165/" height="30" width="40" /></a>
 <a href="https://medium.com/@joao.lsilva1198" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@joao.lsilva1198" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lucas_starwars66" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="lucas_starwars66" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/joaolucasskywalker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/joaolucasskywalker/" height="30" width="40" /></a>
+<a href="www.instagram.com/joaolucasskywalker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/joaolucasskywalker/" height="30" width="40" /></a>
 </p>
 
 
