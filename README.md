@@ -23,7 +23,7 @@
 
 - 📝 Eu escrevo regularmente artigos em [https://medium.com/@joao.lsilva1198](https://medium.com/@joao.lsilva1198)
 
-- 👨‍💻 Resolvo problemas no [HackerRank]() e no [Beecrowd]()
+- 👨‍💻 Resolvo problemas no [HackerRank](https://www.hackerrank.com/lucas_starwars66) e no [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/217652)
 - 📫 Entre em contato comigo **joao.lsilva1198@gmail.com**
 
 - ⚡ Eu gosto de: **Café, Livros de Ficção cientifica, roupas pretas e Star Wars!**
